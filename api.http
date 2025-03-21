@@ -1,0 +1,35 @@
+### Recuperar todas las movies
+GET http://localhost:1234/movies
+
+### Recuperar movie por ID
+
+GET http://localhost:1234/movies/12
+
+
+### Recuperar movie por genero
+
+GET http://localhost:1234/movies?genre=action
+
+
+### Crear una pelicula
+POST http://localhost:1234/movies
+Content-Type: application/json
+
+{
+        "title": 1,
+        "year": 2001,
+        "director": "James Cameron",
+        "duration": 100,
+        "genre": ["action"]
+}
+
+### Actualizar una pelicula
+PATCH http://localhost:1234/movies/3
+Content-Type: application/json
+
+{
+        "title": "El señor de los moquillos",
+        "year": 1962
+}
+
+ 

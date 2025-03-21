@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Terminator 1",
+        "year": "1989",
+        "director": "James Cameron",
+        "duration": "126",
+        "genre": ["action"],
+        "img": "https://www.mubis.es/media/movies/263/20908/terminator-original.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Terminator 2",
+        "year": "1992",
+        "director": "James Cameron",
+        "duration": "134",
+        "genre": ["action"],
+        "img": "https://play-lh.googleusercontent.com/nVRLkFz82t9oSRPQ2NU3jvdkJKY3cBZeb0MUceGOUstTNsv-xp9ZCqjmkVhsU9fg4UapVueM8VNLehiIuAf3"
+    },
+    {  
+        "id": 3,
+        "title": "Titanic",
+        "year": "2000",
+        "director": "Wok Nektars",
+        "duration": "220",
+        "genre": ["drama"],
+        "img": "https://play-lh.googleusercontent.com/560-H8NVZRHk00g3RltRun4IGB-Ndl0I0iKy33D7EQ0cRRwH78-c46s90lZ1ho_F1so=w240-h480-rw"
+    },
+    {
+        "id": 4,
+        "title": "Harry Potter",
+        "year": "2000",
+        "director": "Steven Spielberg",
+        "duration": "120",
+        "genre": ["fantasy"],
+        "img": "https://www.universalorlando.com/webdata/k2/es/us/files/Images/gds/uor-wwohp-logo-3-kids-clouds-key-art-hero-b.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Hellsing",
+        "year": "2004",
+        "director": "Ayumi Kotsunaro",
+        "duration": "90",
+        "genre": ["anime"],
+        "img": "https://images.justwatch.com/poster/178652842/s718/hellsing.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Ciudad de Dios",
+        "year": "2005",
+        "director": "Paloma San Basilio",
+        "duration": "140",
+        "genre": ["crime"],
+        "img": "https://www.arte.unicen.edu.ar/cdab/wp-content/uploads/2017/06/ciudad-de-dios.jpg"
+    }
+]
